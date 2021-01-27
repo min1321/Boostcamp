@@ -81,5 +81,9 @@
 ![image.png](attachment:image.png)
 
 - 로그파일 세팅을 해주려면 레벨이나 여러개를 해줘야하는데, 방식이 2개 있음
-    - configparse : 파일에 설정해서 알려주는 방법
+    - configparser : 파일에 설정해서 알려주는 방법
     - argparser : 실행시점에 알려주는 방식
+
+```python
+
+```
