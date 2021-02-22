@@ -1,0 +1,43 @@
+<Day 0> 딥러닝을 위한 기초
+  1주 : 파이썬 기초
+  2주 : 수학, 행렬, 선형대수, 통계, 데이터 분석도구
+  3주 : 딥러닝(pytorch)
+  - 목표 : 딥러닝에 사용하는 Pytorch를 깊이 이해한다
+
+<Day 1> 파이썬 / AI 개발환경 준비하기
+ ○ Hidden Class - Basic computer class for newbies
+  - 컴퓨터 OS : Operating System, 운영체제
+                  프로그램이 동작할 수 있는 구동 환경
+
+  - 파일 시스템: OS에서 파일을 저장하는 트리구조
+      절대 경로 : 루트 디렉토리부터 파일 위치까지의 경로
+      상대 경로 : 현재 있는 디랙토리 부터 타겟 파일까지의 경로
+
+  - 터미널 : 마우스가 아닌 키보드로 명령 입력 및 프로그램 실행 (CLI ; Command Line Interface)
+             * GUI : Graphic User Interface
+         Consle = Terminal = CMD
+
+ ○ 파이썬의 개요
+  - 파이썬의 시작 : 1991 귀도 반 로섬
+  - 특징
+      1. 플랫폼에 독립적인 언어 (OS에 상관없이 돌아감)
+      2. 인터프리터 언어
+      3. 객체 지향 : 실행 순서가 아닌 모듈(객체) 중심으로 프로그램을 작성
+      4. 동적 타이핑 언어 : 프로그램이 실행하는 시점에 데이터 타입을 결정함
+       ** 컴파일러와 인터프리터 차이
+           ; 인터프리터는 작동방식이 별도 번역과정 없이 소스 실행 시점에 해석
+           ; 인터프리터 언어가 작성이 쉬움, 단 속도 느림
+   "Life is short, You need python"
+
+ ○ 파이썬 환경
+  - 운영체제, python Interperter, 코드 편집기
+  - terminal에서 VS Code 실행
+      1. Anaconda prompt에서 cd 명령어를 이용해 폴더 이동하기
+      2. code .  << 입력을 통한 VS Code 프로그램 실행
+  - Jupyter Notebook
+      1. 설치방법 학습
+      2. 단축키 학습 (Sheft + Enter, Control + Enter, DD ... 등)
+  - colab 가입
+      : Jupyter Notebook + 구글드라이브
+      : GPU 무료사용 가능
+      : 단축키 잘 입력 안되는 단점 있음
